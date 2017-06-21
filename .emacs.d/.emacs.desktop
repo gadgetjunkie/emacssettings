@@ -1,0 +1,525 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Jun  8 20:12:52 2017
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22841 62996 331334 0) (desktop . "206") "mike@MacBook-Pro.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (foreground-color . "gray80") (background-color . "#181a26") (line-spacing) (left-fringe . 10) (right-fringe . 11) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "green") (environment) (display . "MacBook-Pro.local") (frameset--id . "F6E3-C83C-C997-35FF") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (user-size . t) (visibility . t) (height . 66) (width . 234) (left . 1) (top . 42)) ((min-height . 8) (min-width . 40) (min-height-ignore . 4) (min-width-ignore . 32) (min-height-safe . 2) (min-width-safe . 8) (min-pixel-height . 112) (min-pixel-width . 280) (min-pixel-height-ignore . 56) (min-pixel-width-ignore . 224) (min-pixel-height-safe . 28) (min-pixel-width-safe . 56)) vc (pixel-width . 1674) (pixel-height . 910) (total-width . 239) (total-height . 65) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (hc (pixel-width . 1674) (pixel-height . 462) (total-width . 239) (total-height . 33) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 834) (pixel-height . 462) (total-width . 119) (total-height . 33) (normal-height . 1.0) (normal-width . 0.5) (buffer "EagleConversion.t" (selected) (hscroll . 0) (fringes 10 11 nil) (margins 5) (scroll-bars 15 3 t nil) (vscroll . 0) (dedicated) (point . 988) (start . 308))) (leaf (pixel-width . 420) (pixel-height . 462) (total-width . 60) (total-height . 33) (normal-height . 1.0) (normal-width . 0.25) (buffer "EagleConversion.pm" (selected) (hscroll . 0) (fringes 10 11 nil) (margins 5) (scroll-bars 15 3 t nil) (vscroll . 0) (dedicated) (point . 8547) (start . 7907))) (leaf (last . t) (pixel-width . 420) (pixel-height . 462) (total-width . 60) (total-height . 33) (normal-height . 1.0) (normal-width . 0.25) (buffer "Config.pm" (selected) (hscroll . 0) (fringes 10 11 nil) (margins 5) (scroll-bars 15 3 t nil) (vscroll . 0) (dedicated) (point . 1202) (start . 677)))) (hc (last . t) (pixel-width . 1674) (pixel-height . 448) (total-width . 239) (total-height . 32) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 414) (pixel-height . 448) (total-width . 59) (total-height . 32) (normal-height . 1.0) (normal-width . 0.25) (buffer "*gud-EagleConversion.t*" (selected . t) (hscroll . 0) (fringes 10 11 nil) (margins nil) (scroll-bars 15 3 t nil) (vscroll . 0) (dedicated) (point . 21842) (start . 20468))) (leaf (pixel-width . 420) (pixel-height . 448) (total-width . 60) (total-height . 32) (normal-height . 1.0) (normal-width . 0.25) (buffer "perl5db.pl" (selected) (hscroll . 0) (fringes 10 11 nil) (margins 6) (scroll-bars 15 3 t nil) (vscroll . 0) (dedicated) (point . 314952) (start . 314341))) (leaf (pixel-width . 420) (pixel-height . 448) (total-width . 60) (total-height . 32) (normal-height . 1.0) (normal-width . 0.25) (buffer "EagleConv.pl" (selected) (hscroll . 0) (fringes 10 11 nil) (margins 5) (scroll-bars 15 3 t nil) (vscroll . 0) (dedicated) (point . 521) (start . 278))) (leaf (last . t) (pixel-width . 420) (pixel-height . 448) (total-width . 60) (total-height . 32) (normal-height . 1.0) (normal-width . 0.25) (buffer "SSL.pm" (selected) (hscroll . 0) (fringes 10 11 nil) (margins 5) (scroll-bars 15 3 t nil) (vscroll . 0) (dedicated) (point . 9477) (start . 8611))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("eagl" "LUA" "drill" "EagleCon" "de" "boardULP" "$log" "unlockfile" "lockFil" "json" "procJob" "json" "runEagleCam" "boardulp" "runEagleBoard" "logPCBError"))
+(setq regexp-search-ring '("\"\"$" "[^.]session"))
+(setq register-alist (list (desktop-list* 97 (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,nil (get-buffer ," *temp*")))) mk))))
+(setq file-name-history '("~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/t/" "~/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/" "~/mfab/FileTypeConversion/apps/ODBImporter" "~/mfab/FileTypeConversion/" "~/mfab/DockerFiles/config/" "~/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/" "~/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/script/EagleConv.pl" "~/mfab/Dockerfiles/deps/JobBatcher/apps/Batcher/t" "~/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/t/EagleConversion.t" "~/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/t" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/Makefile" "~/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/Makefile" "~/mfab/Dockerfiles/deps/JobBatcher/apps/Batcher/Makefile" "~/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/" "~/mfab/Dockerfiles/deps/MFCore/" "~/mfab/Dockerfiles/deps/MFCore/\\" "~/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/cpanfile" "~/mfab/DockerFiles/config/development.json" "~/mfab/Dockerfiles/deps/MFCore" "~/tmp/eagleboardsummary.json" "/Applications/" "/Applications'" "~/Downloads/gerber-rs274x.ulp" "~/tmp/layers.txt" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/script/ListLayers.ulp" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/lib/MacroFab/EagleConversion/" "~/mfab/DockerFiles/deps/JobBatcher/apps/Batcher/lib/" "~/mfab/DockerFiles/Dockerfiles/" "~/mfab/Dockerfiles/" "~/mfab/Dockerfiles/deps/MFWeb/apps/mfweb/lib" "~/mfab/Dockerfiles/" "~/mfab/FileTypeConversion/" "~/mfab/DockerFiles/deps/MFCore/" "~/mfab/DockerFiles/deps" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/script" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/lib/MacroFab/EagleConversion/EagleConversion.pm" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/lib/MacroFab/EagleConversion" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/lib/MacroFab" "~/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/lib" "~/mfab/DockerFiles/deps" "~/mfab/DockerFiles/Dockerfiles/Eagle/" "~/mfab/DockerFiles/Dockerfiles" "~/mfab/DockerFiles/Dockerfiles/x11base/Dockerfile" "~/mfab/DockerFiles/Dockerfiles/x11base" "~/mfab/DockerFiles/Dockerfiles/Eagle/" "~/mfab/DockerFiles/Makefile" "~/mfab/DockerFiles/Dockerfiles/Eagle/docker-entrypoint.sh" "~/mfab/DockerFiles/Dockerfiles/" "~/mfab/DockerFiles/Dockerfiles/MFBase/" "~/mfab/DockerFiles/Dockerfiles/Eagle/Dockerfile" "~/mfab/DockerFiles/" "~/mfab/DockerFiles/Makefile" "~/mfab/DockerFiles/Dockerfiles/Eagle/" "~/mfab/Dockerfiles/Dockerfiles/Eagle/Dockerfile" "~/mfab/Dockerfiles/Dockerfiles/Eagle/etc/supervisor/" "~/mfab/Dockerfiles/Dockerfiles/Eagle/etc/supervisor/conf.d/" "~/mfab/Dockerfiles/Dockerfiles/Eagle/" "~/tmp/docker-opengl/" "~/mfab/deagle/" "~/mfab/DockerFiles/Dockerfiles/Eagle/" "~/mfab/DockerFiles/Dockerfiles/" "~/mfab/DockerFiles/README.md" "~/mfab/DockerFiles/" "~/mfab/Dockerfiles/" "~/mfab/DockerFiles/" "~/mfab/DockerFiles/Dockerfiles/MFBase/" "~/mfab/DockerFiles/Dockerfiles/" "~/mfab/DockerFiles/Makefile" "~/mfab/DockerFiles/Dockerfiles/" "~/mfab/DockerFiles/" "~/mfab/DockerFiles/Makefile" "~/mfab/DockerFiles/Dockerfiles/" "~/mfab/DockerFiles/docker-compose.yml" "/Users/mike/Documents/MacroFab/src/FileTypeConversion/.git/COMMIT_EDITMSG" "~/mfab/MachineProgramming/My200_Data/PlacementConverter.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/Panel.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/bottom-gerbv-project.template" "~/mfab/FileTypeConversion/apps/PlacementConverter/top-gerbv-project.template" "~/mfab/FileTypeConversion/apps/PlacementConverter/Placement.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/FetchPanel.py" "/var/mfab/lib/python/WebHash.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/config.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/work/665/665-1.gta" "/Users/mike/Documents/MacroFab/src/FileTypeConversion/apps/PlacementConverter/venv" "~/mfab/FileTypeConversion/apps/PlacementConverter/work/665/ManualAdjustments.txt" "~/mfab/FileTypeConversion/apps/PlacementConverter/My200Packages.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/My200Package.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/data/pck.gen" "~/mfab/FileTypeConversion/apps/PlacementConverter/data/cmp.cmp" "~/mfab/FileTypeConversion/apps/PlacementConverter/work/665/panel.xyrs" "~/mfab/FileTypeConversion/apps/PlacementConverter/work/665/665-1.gvp" "~/mfab/FileTypeConversion/apps/PlacementConverter/My200PCBWriter.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/XYRSWriter.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/GerberWriter.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/ComponentReport.py" "~/mfab/FileTypeConversion/apps/PlacementConverter/My200PCBs.py" "~/mfab/MachineProgramming/My200_Data/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/mike/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/t/EagleConversion.t"
+  "EagleConversion.t"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode)
+  988
+  '(207 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/perl5/perlbrew/perls/perl-5.18.4/lib/5.18.4/perl5db.pl"
+  "perl5db.pl"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode)
+  314952
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/script/EagleConv.pl"
+  "EagleConv.pl"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode auto-revert-mode)
+  521
+  '(522 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/perl5/perlbrew/perls/perl-5.18.4/lib/site_perl/5.18.4/IO/Socket/SSL.pm"
+  "SSL.pm"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode)
+  9477
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/Dockerfiles/deps/MFCore/lib/MacroFab/Config.pm"
+  "Config.pm"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode auto-revert-mode)
+  1202
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/lib/MacroFab/EagleConversion.pm"
+  "EagleConversion.pm"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode)
+  8547
+  '(728 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/tmp/eagleboardsummary.json"
+  "eagleboardsummary.json"
+  'js2-mode
+  '(auto-revert-mode)
+  68
+  '(4757 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/perl5/perlbrew/perls/perl-5.18.4/lib/5.18.4/Test/More.pm"
+  "More.pm"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode)
+  7240
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/Documents/MacroFab/src/Dockerfiles/deps/EagleConversion/apps/EagleConv/local/lib/perl5/darwin-2level/XML/LibXML/Error.pm"
+  "Error.pm"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode)
+  4999
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/FileTypeConversion/apps/ODBImporter/t/ODBImporter.t"
+  "ODBImporter.t"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode)
+  314
+  '(156 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "apps"
+  'dired-mode
+  nil
+  2891
+  '(2230 nil)
+  t
+  '("/Users/mike/mfab/FileTypeConversion/apps/" "/Users/mike/mfab/FileTypeConversion/apps/ODBImporter/" "/Users/mike/mfab/FileTypeConversion/apps/ODBImporter/t/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "FileTypeConversion"
+  'dired-mode
+  nil
+  501
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/FileTypeConversion/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/DockerFiles/config/development.json"
+  "development.json"
+  'js2-mode
+  nil
+  12728
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "lib"
+  'dired-mode
+  nil
+  226
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/lib/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/Makefile"
+  "Makefile"
+  'makefile-bsdmake-mode
+  nil
+  1184
+  '(665 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "t"
+  'dired-mode
+  nil
+  229
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/t/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/Dockerfiles/deps/JobBatcher/apps/Batcher/t/Job.t"
+  "Job.t"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode auto-revert-mode)
+  1000
+  '(843 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "t"
+  'dired-mode
+  nil
+  468
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/Dockerfiles/deps/JobBatcher/apps/Batcher/t/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/cpanfile"
+  "cpanfile"
+  'fundamental-mode
+  nil
+  405
+  '(404 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/Build.PL"
+  "Build.PL"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode)
+  1096
+  '(1153 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "EagleConversion"
+  'dired-mode
+  nil
+  254
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/lib/MacroFab/EagleConversion/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "Applications"
+  'dired-mode
+  nil
+  2035
+  '(nil nil)
+  t
+  '("/Applications/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "MacroFab"
+  'dired-mode
+  nil
+  365
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/lib/MacroFab/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/Dockerfiles/deps/JobBatcher/apps/Batcher/Makefile"
+  "Makefile"
+  'makefile-bsdmake-mode
+  '(auto-revert-mode)
+  1
+  '(1348 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "EagleConv"
+  'dired-mode
+  nil
+  280
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/Dockerfiles/deps/EagleConversion/apps/EagleConv/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "MacroFab"
+  'dired-mode
+  nil
+  339
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/Dockerfiles/deps/MFCore/lib/MacroFab/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "lib"
+  'dired-mode
+  nil
+  259
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/Dockerfiles/deps/MFCore/lib/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "MFCore"
+  'dired-mode
+  nil
+  889
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/Dockerfiles/deps/MFCore/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/script/ListLayers.ulp"
+  "ListLayers.ulp"
+  'c-mode
+  '(abbrev-mode)
+  170
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/Downloads/gerber-rs274x.ulp"
+  "gerber-rs274x.ulp"
+  'fundamental-mode
+  nil
+  13206
+  '(12460 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  nil
+  "Contents"
+  'dired-mode
+  nil
+  366
+  '(nil nil)
+  t
+  '("/Applications/EAGLE-8.2.1/EAGLE.app/Contents/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Applications/EAGLE-8.2.1/cam/gerb274x.cam"
+  "gerb274x.cam"
+  'fundamental-mode
+  nil
+  3438
+  '(993 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "MacOS"
+  'dired-mode
+  nil
+  212
+  '(272 nil)
+  t
+  '("/Applications/EAGLE-8.2.1/EAGLE.app/Contents/MacOS/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "EAGLE.app"
+  'dired-mode
+  nil
+  235
+  '(nil nil)
+  t
+  '("/Applications/EAGLE-8.2.1/EAGLE.app/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "Frameworks"
+  'dired-mode
+  nil
+  205
+  '(nil nil)
+  t
+  '("/Applications/EAGLE-8.2.1/EAGLE.app/Contents/Frameworks/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "PlugIns"
+  'dired-mode
+  nil
+  202
+  '(nil nil)
+  t
+  '("/Applications/EAGLE-8.2.1/EAGLE.app/Contents/PlugIns/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "Resources"
+  'dired-mode
+  nil
+  215
+  '(nil nil)
+  t
+  '("/Applications/EAGLE-8.2.1/EAGLE.app/Contents/Resources/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "EAGLE-8.2.1"
+  'dired-mode
+  nil
+  295
+  '(nil nil)
+  t
+  '("/Applications/EAGLE-8.2.1/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mike/tmp/layers.txt"
+  "layers.txt"
+  'text-mode
+  '(auto-revert-mode)
+  1403
+  '(38 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/script/genProcFiles.ulp"
+  "genProcFiles.ulp"
+  'fundamental-mode
+  '(auto-revert-mode)
+  1
+  '(2651 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "script"
+  'dired-mode
+  nil
+  651
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/script/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "EagleConv"
+  'dired-mode
+  nil
+  387
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/DockerFiles/deps/EagleConversion/apps/EagleConv/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mike/mfab/DockerFiles/deps/MFCore/lib/MacroFab/PcbClient.pm"
+  "PcbClient.pm"
+  'cperl-mode
+  '(abbrev-mode linum-mode outline-minor-mode)
+  12917
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "2DPacker"
+  'dired-mode
+  nil
+  367
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/DockerFiles/deps/JobBatcher/apps/Batcher/lib/MacroFab/2DPacker/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "MacroFab"
+  'dired-mode
+  nil
+  293
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/DockerFiles/deps/JobBatcher/apps/Batcher/lib/MacroFab/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "lib"
+  'dired-mode
+  nil
+  477
+  '(nil nil)
+  t
+  '("/Users/mike/mfab/DockerFiles/deps/JobBatcher/apps/Batcher/lib/")
+  nil)
+
