@@ -393,5 +393,5 @@ as input."
 ;;(remove-from-list 'auto-mode-alist '("\\.js\\'" . js2-mode))
 ;;(remove-from-list 'auto-mode-alist '("\\.json\\'" . js2-mode))
 
-(desktop-save-mode 1)
-(setq desktop-auto-save-timeout 120)
+;;(desktop-save-mode 1)
+;;(setq desktop-auto-save-timeout 120)
